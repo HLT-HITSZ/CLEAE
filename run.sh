@@ -1,0 +1,1 @@
+python -W error::FutureWarning main.py --cuda 0 --hidden_alignment --model 4losspos --lang zh-en --OT_threshold 0.5
